@@ -1,29 +1,25 @@
 # Classic Arcade Game Clone Project – Jan-Alfred Barclay
 
-## Game version 
+# Game version 
 Version 1
 
-## Table of contents
-– Introduction
-– Getting started
-– How to play
-– Notes
-– Contributing
+# Table of contents
+1. Introduction
+2. Getting started
+3. How to play
+4. Notes
 
-## Introduction
+# 1.  Introduction
 A game to play within your browser
 
-## Getting started
+# 2. Getting started
 1. This does not require installation
 2. Open index.html in your browser
 
-## How to play
+# 3. How to play
 1. Use your arrow keys to move your character across the board.
 2. Avoid hitting or colliding with enemy players
 3. Your objective is to cross the map without running into any enemies
 
-## Notes
+# 4. Notes
 – Could not get collision function to work (Need to work on this)
-
-## Contributing
-Hope you like it!
